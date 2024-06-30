@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/food-delivery-app-design/static/css/main.33ffe6ec.css",
+    "main.js": "/food-delivery-app-design/static/js/main.ee445856.js",
+    "static/media/veg1.jpg": "/food-delivery-app-design/static/media/veg1.c272e6fa572b462129ec.jpg",
+    "static/media/veg3.jpg": "/food-delivery-app-design/static/media/veg3.d5a2d046e8ef14e24fde.jpg",
+    "static/media/veg2.jpg": "/food-delivery-app-design/static/media/veg2.cde70496a2cb6e08fb2f.jpg",
+    "static/media/footerbg.png": "/food-delivery-app-design/static/media/footerbg.9a705ee4c16d4ae4f73d.png",
+    "static/media/pumpkin.jpg": "/food-delivery-app-design/static/media/pumpkin.5636237c0eb0ebc5307c.jpg",
+    "static/media/hero1.png": "/food-delivery-app-design/static/media/hero1.e368fe16fbff39633a93.png",
+    "static/media/vege4.png": "/food-delivery-app-design/static/media/vege4.2208137d0f392ade66df.png",
+    "static/media/bootstrap-icons.woff?": "/food-delivery-app-design/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/food-delivery-app-design/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/cf.png": "/food-delivery-app-design/static/media/cf.94ffad97e60f244bc1db.png",
+    "static/media/vege2.jpg": "/food-delivery-app-design/static/media/vege2.f3f728e85a32e14bfeb4.jpg",
+    "static/media/Celery.png": "/food-delivery-app-design/static/media/Celery.4bfe737c34acdabe2b00.png",
+    "static/media/Amaranth.png": "/food-delivery-app-design/static/media/Amaranth.2d0566b48599160d1ecc.png",
+    "static/media/vege3.jpg": "/food-delivery-app-design/static/media/vege3.83a4ac934a0ae9b7c449.jpg",
+    "static/media/process3.png": "/food-delivery-app-design/static/media/process3.5e124408850683915cd5.png",
+    "static/media/brinjal.png": "/food-delivery-app-design/static/media/brinjal.a03cb9d920e2ad3fed93.png",
+    "static/media/kado.png": "/food-delivery-app-design/static/media/kado.cc16c5108c69e849db4d.png",
+    "static/media/Sabzi.png": "/food-delivery-app-design/static/media/Sabzi.abb47e38b769e0136b5c.png",
+    "static/media/carrot.png": "/food-delivery-app-design/static/media/carrot.24e0b14d86434b2a05e9.png",
+    "static/media/turnip.png": "/food-delivery-app-design/static/media/turnip.71b7ad0efa76649e82f5.png",
+    "static/media/process1.png": "/food-delivery-app-design/static/media/process1.c21a9aeb2fc9c1f321c1.png",
+    "static/media/process2.png": "/food-delivery-app-design/static/media/process2.d39febf0740f32633123.png",
+    "static/media/vege5.jpg": "/food-delivery-app-design/static/media/vege5.b83a0c1172b40463ac00.jpg",
+    "static/media/vege.jpg": "/food-delivery-app-design/static/media/vege.257438f4514ad9f0829b.jpg",
+    "static/media/vege6.jpg": "/food-delivery-app-design/static/media/vege6.e08c727d59e359691b3a.jpg",
+    "static/media/slick.svg": "/food-delivery-app-design/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/food-delivery-app-design/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/food-delivery-app-design/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/food-delivery-app-design/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/food-delivery-app-design/index.html",
+    "main.33ffe6ec.css.map": "/food-delivery-app-design/static/css/main.33ffe6ec.css.map",
+    "main.ee445856.js.map": "/food-delivery-app-design/static/js/main.ee445856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ffe6ec.css",
+    "static/js/main.ee445856.js"
+  ]
+}
